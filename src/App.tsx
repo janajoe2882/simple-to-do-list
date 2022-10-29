@@ -40,7 +40,7 @@ function App() {
         <div className="heading">
           <span>오늘 뭐하지</span>
           <button className="toolbar" onClick={handleSave}>
-            DB 저장
+            HELLO
           </button>
         </div>
         <InputField todo={todo} setTodo={setTodo} handleAdd={handleAdd} />
